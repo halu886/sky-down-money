@@ -1,0 +1,5 @@
+<view >
+  <view >
+    <canvas id="canvas" style="height:{{res.windowHeight}};width:{{res.windowWidth}}" onTap="addMoney"/>
+  </view>
+</view>
